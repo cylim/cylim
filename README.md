@@ -1,6 +1,6 @@
 # Hi there 👋
 
-> I am a freelance digital nomad developer who turned UI designs into code. 🤣
+> A full stack engineer who is primarily working with React, React Native & Nodejs. I am also capable of building the CI/CD pipelines for app distribution.
 
 ![Cylim's github stats](https://github-readme-stats.vercel.app/api?username=cylim&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)
 

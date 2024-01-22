@@ -3,10 +3,10 @@
 > A full stack engineer who is primarily working with React, React Native & Nodejs. I am also capable of building the CI/CD pipelines for app distribution.
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cylim&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide=stars" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cylim&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide=stars&hide_border=true&hide_rank=true" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cylim&layout=compact&theme=dracula&langs_count=8&card_width=320&size_weight=0.2&count_weight=0.8" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cylim&layout=compact&theme=dracula&langs_count=8&size_weight=0.1&count_weight=0.9&hide_border=true" />
 </a>
 
 

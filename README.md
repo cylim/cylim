@@ -2,15 +2,19 @@
 
 > A full stack engineer who is primarily working with React, React Native & Nodejs. I am also capable of building the CI/CD pipelines for app distribution.
 
-![Cylim's github stats](https://github-readme-stats.vercel.app/api?username=cylim&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cylim&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide=stars" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cylim&layout=compact&theme=dracula&langs_count=8&card_width=320&size_weight=0.2&count_weight=0.8" />
+</a>
+
 
 ### Find me at
 
 [![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Twitter-icon.png)](https://cyl.im/twitter)
 [![Insta Logo](https://icons.iconarchive.com/icons/uiconstock/socialmedia/32/Instagram-icon.png)](https://cyl.im/insta)
 [![Linkedin Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Linkedin-icon.png)](https://cyl.im/in)
-[![Angellist Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Angellist-icon.png)](https://cyl.im/angel)
-
 
 
 <!--
